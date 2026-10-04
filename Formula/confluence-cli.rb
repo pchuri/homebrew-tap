@@ -1,8 +1,8 @@
 class ConfluenceCli < Formula
   desc "Command-line interface for Atlassian Confluence"
   homepage "https://github.com/pchuri/confluence-cli"
-  url "https://registry.npmjs.org/confluence-cli/-/confluence-cli-2.27.0.tgz"
-  sha256 "c4e37fd48bc9494cb6651d85b7ff7ec7c382ce8bdb10e5c29b2b44e4c7bb782f"
+  url "https://registry.npmjs.org/confluence-cli/-/confluence-cli-2.27.1.tgz"
+  sha256 "7ad67fb6995de6ebc0f4e6138a8046be172f6bde3c3394f453f980fcf0eaa87f"
   license "MIT"
 
   depends_on "node"
